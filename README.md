@@ -1,3 +1,3 @@
 # PyStat
 
-Please visit gitlab.com/madbrenner/PyStat, where PyStat is actually hosted.
+Please visit https://gitlab.com/madbrenner/PyStat, where PyStat is actually hosted.
